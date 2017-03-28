@@ -9,5 +9,5 @@ var todo = new Vue({
   el: '#todos',
   render: h => h(todoapp)
 })
-var velocity = document.getElementsByClassName('Velocity')[0];
-Velocity(velocity, {translateX: 350}, {duration: 1000})
+// var velocity = document.getElementsByClassName('Velocity')[0];
+// Velocity(velocity, {translateX: 350}, {duration: 1000})
